@@ -26,8 +26,8 @@
 
 # Tools
 
-*	[*OpenRefine*: OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
-*	[*Tabula*: Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
+*	[__OpenRefine__: OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
+*	[__Tabula__: Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
 
 # Tutorials
 
