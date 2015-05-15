@@ -48,6 +48,7 @@
 *	__Scraper:__ [Web Scraper is a chrome browser extension built for data extraction from web pages.](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
 *	__RStudio:__ [RStudio IDE is a powerful and productive user interface for R](http://www.rstudio.com/)
 *	__GitHub:__ [Powerful collaboration, code review, and code management for open source and private projects.](https://github.com/)
+*	__Colorbrewer:__ [Color advice for cartography](http://colorbrewer2.org/)
 
 # Tutorials
 
