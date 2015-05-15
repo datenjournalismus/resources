@@ -20,14 +20,28 @@
 * 	[Drawing Conclusions From Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/)
 
 
+# Blogs
+
+*	[Guradian Data blog](http://www.theguardian.com/data)
+*	[The Upshot](http://www.nytimes.com/upshot)
+*	[Five Thirty Eight](http://fivethirtyeight.com)
+*	[The ProPublica Nerd Blog](https://www.propublica.org/nerds)
+*	[Chicago Tribune News Apps Blog](http://blog.apps.chicagotribune.com)
+*	[Source](https://source.opennews.org)
+*	[Datenlese](http://www.spiegel.de/thema/daten)
+
+
 # Videos
 
+*	[Journalism in the Age of Data](http://datajournalism.stanford.edu/noflash.html)
 * 	[Aron Pilhofer: “Data Can Be A Source And Tell Stories”](http://blogs.cccb.org/lab/en/video_aron-pilhofer-les-dades-poden-ser-una-font-i-explicar-histories/)
+*	[The Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
 # Tools
 
-*	[__OpenRefine__: OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
-*	[__Tabula__: Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
+*	__OpenRefine:__ [OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
+*	__Tabula:__ [Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
+*	__Scraper:__ [Web Scraper is a chrome browser extension built for data extraction from web pages.](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
 
 # Tutorials
 
