@@ -29,6 +29,9 @@
 *	[Chicago Tribune News Apps Blog](http://blog.apps.chicagotribune.com)
 *	[Source](https://source.opennews.org)
 *	[Datenlese](http://www.spiegel.de/thema/daten)
+*	[Flowing Data: Visualization and Statistics](http://flowingdata.com/)
+*	[NZZ Data](http://www.nzz.ch/data/)
+
 
 
 # Videos
@@ -59,4 +62,4 @@
 
 *	[News Graphics Collection](http://collection.marijerooze.nl/)
 *	[DDJ Katalog](http://katalog.datenjournalismus.net/#/)
-*	[Graphic Libraries](selection.datavisualization.ch)
+*	[Graphic Libraries](http://selection.datavisualization.ch/)
