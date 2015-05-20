@@ -64,3 +64,13 @@
 *	[News Graphics Collection](http://collection.marijerooze.nl/)
 *	[DDJ Katalog](http://katalog.datenjournalismus.net/#/)
 *	[Graphic Libraries](http://selection.datavisualization.ch/)
+
+# SNA
+
+*	[Connecting the Dots Behind the 2016 Presidential Candidates](http://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html)
+*	[This is Who Republican Presidential Contenders Follow on Twitter](http://www.bloomberg.com/politics/graphics/2015-who-republican-candidates-follow/)
+
+
+# Food for thought
+
+*	[People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
