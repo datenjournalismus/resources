@@ -1,4 +1,5 @@
 # Data-Driven Journalism Collection
+	curated by @pushthings4ward
 
 
 # Books
@@ -12,6 +13,7 @@
 *	[Die perfekte Infografik: Wie man Zahlen, Daten, Fakten richtig präsentiert - und wie nicht by  Donna M. Wong](http://www.amazon.de/Die-perfekte-Infografik-richtig-pr%C3%A4sentiert/dp/3868812776/ref=sr_1_1?ie=UTF8&qid=1431690490&sr=8-1&keywords=die+perfekte+infografik)
 *	[The Data Journalism Handbook by Jonathan Gray, Lucy Chambers, Liliana Bounegru](http://datajournalismhandbook.org/)
 *	[Guides, case studies and resources for government & civil society on the “what, why & how” of open data](http://opendatahandbook.org/)
+*	[Data Science at the Command Line](http://datascienceatthecommandline.com/)
 
 
 # Articles
@@ -44,6 +46,8 @@
 # Tools
 
 *	__OpenRefine:__ [OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
+*	__csvkit:__ [csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.](http://csvkit.readthedocs.org/en/latest/index.html)
+*	__journalism:__ [journalism is a Python library that takes the horror out of basic data analysis and manipulation.](http://journalism.readthedocs.org/en/0.4.0/index.html)
 *	__Tabula:__ [Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
 *	__Scraper:__ [Web Scraper is a chrome browser extension built for data extraction from web pages.](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
 *	__RStudio:__ [RStudio IDE is a powerful and productive user interface for R](http://www.rstudio.com/)
@@ -53,6 +57,8 @@
 # Tutorials
 
 *	[OpenRefine Tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
+*	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
+
 
 # Data sources
 
