@@ -1,5 +1,5 @@
 # Data-Driven Journalism Collection
-	curated by @pushthings4ward
+* curated by @pushthings4ward
 
 
 # Books
@@ -58,6 +58,7 @@
 
 *	[OpenRefine Tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
+*	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
 
 
 # Data sources
@@ -80,3 +81,4 @@
 # Food for thought
 
 *	[People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
+*	[How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
