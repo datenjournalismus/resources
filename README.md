@@ -1,10 +1,11 @@
 # Data-Driven Journalism Collection
-curated by @pushthings4ward
+#### curated by [@pushthings4ward](http://www.twitter.com/pushthings4ward)
 
 
 # Books
 
-* 	[Finding Stories in Spreadsheets by Paul Bradshaw](https://leanpub.com/spreadsheetstories)
+* 	[The Art and Science of Data-Driven-Journalism](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Data-Driven-Journalism.pdf) 
+*	[Finding Stories in Spreadsheets by Paul Bradshaw](https://leanpub.com/spreadsheetstories)
 *	[Scraping for Journalists by Paul Bradshaw](https://leanpub.com/scrapingforjournalists)
 *	[So lügt man mit Statistik by Walter Krämer](http://www.amazon.de/So-l%C3%BCgt-man-mit-Statistik/dp/3492264131/ref=sr_1_3?ie=UTF8&qid=1431690234&sr=8-3&keywords=wie+l%C3%BCgt+man+mit+statistik)
 *	[Tiger That Isn't: Seeing Through a World of Numbers by Michael Blastland](http://www.amazon.de/Tiger-That-Isnt-Through-Numbers/dp/1846681111/ref=sr_1_1?ie=UTF8&qid=1431690285&sr=8-1&keywords=the+tiger+that+isn%27t)
@@ -33,6 +34,7 @@ curated by @pushthings4ward
 *	[Datenlese](http://www.spiegel.de/thema/daten)
 *	[Flowing Data: Visualization and Statistics](http://flowingdata.com/)
 *	[NZZ Data](http://www.nzz.ch/data/)
+*	[BuzzFeed Data Blog](http://www.buzzfeed.com/datablog)
 
 
 
@@ -59,6 +61,7 @@ curated by @pushthings4ward
 *	[OpenRefine Tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
 *	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
+*	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
 
 # Data sources
