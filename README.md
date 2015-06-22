@@ -14,7 +14,7 @@
 *	[Die perfekte Infografik: Wie man Zahlen, Daten, Fakten richtig präsentiert - und wie nicht](http://www.amazon.de/Die-perfekte-Infografik-richtig-pr%C3%A4sentiert/dp/3868812776/ref=sr_1_1?ie=UTF8&qid=1431690490&sr=8-1&keywords=die+perfekte+infografik) by  Donna M. Wong
 *	[The Data Journalism Handbook](http://datajournalismhandbook.org/) by Jonathan Gray, Lucy Chambers, Liliana Bounegru
 *	[Guides, case studies and resources for government & civil society on the “what, why & how” of open data](http://opendatahandbook.org/)
-*	[Data Science at the Command Line](http://datascienceatthecommandline.com/) by Jeroen Janssens
+*	[Data Science at the Command Line](http://datascienceatthecommandline.com/)  by Jeroen Janssens
 
 
 # Articles
