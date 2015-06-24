@@ -55,6 +55,7 @@
 *	__RStudio:__ [RStudio IDE is a powerful and productive user interface for R](http://www.rstudio.com/)
 *	__GitHub:__ [Powerful collaboration, code review, and code management for open source and private projects.](https://github.com/)
 *	__Colorbrewer:__ [Color advice for cartography](http://colorbrewer2.org/)
+*	__ngrko:__ [Secure tunnels to localhost](https://ngrok.com/)
 
 # Tutorials
 
