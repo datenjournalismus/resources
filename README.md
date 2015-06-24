@@ -15,6 +15,7 @@
 *	[The Data Journalism Handbook](http://datajournalismhandbook.org/) by Jonathan Gray, Lucy Chambers, Liliana Bounegru
 *	[Guides, case studies and resources for government & civil society on the “what, why & how” of open data](http://opendatahandbook.org/)
 *	[Data Science at the Command Line](http://datascienceatthecommandline.com/)  by Jeroen Janssens
+*	[Stats: Data and Models (3rd Edition)](http://www.amazon.com/Stats-Models-Richard-D-Veaux/dp/0321692551/ref=sr_1_1?ie=UTF8&qid=1435134787&sr=8-1&keywords=stats+and+models+3rd+edition) by Richard D. De Veaux et al.
 
 
 # Articles
@@ -58,7 +59,7 @@
 
 # CLI
 
-*	__ngrko:__ [Secure tunnels to localhost](https://ngrok.com/)
+*	__ngrok:__ [Secure tunnels to localhost](https://ngrok.com/)
 *	__csvkit:__ [csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.](http://csvkit.readthedocs.org/en/latest/index.html)
 *	__journalism:__ [journalism is a Python library that takes the horror out of basic data analysis and manipulation.](http://journalism.readthedocs.org/en/0.4.0/index.html)
 *	__node:__ [As an asynchronous event driven framework, Node.js is designed to build scalable network applications.](https://nodejs.org/download/)
@@ -68,6 +69,8 @@
 *	__social-shares:__ [A command-line and programmatic interface to various social sharecount endpoints.](https://github.com/debrouwere/social-shares)
 *	__IPython:__ [IPython is a command shell for interactive computing in multiple programming languages.](http://ipython.org/install.html)
 *	__homebrew:__ [The missing package manager for OS X](https://raw.githubusercontent.com/Homebrew/install/master/install)
+*	__wget:__ [wget is a computer program that retrieves content from web servers](https://www.gnu.org/software/wget/)
+*	__grunt:__ [The JavaScript Task Runner](http://gruntjs.com/)
 
 # Tutorials
 
@@ -75,6 +78,7 @@
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
 *	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
 
 
 # Data sources
