@@ -48,14 +48,26 @@
 # Tools
 
 *	__OpenRefine:__ [OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
-*	__csvkit:__ [csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.](http://csvkit.readthedocs.org/en/latest/index.html)
-*	__journalism:__ [journalism is a Python library that takes the horror out of basic data analysis and manipulation.](http://journalism.readthedocs.org/en/0.4.0/index.html)
 *	__Tabula:__ [Tabula is a tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
 *	__Scraper:__ [Web Scraper is a chrome browser extension built for data extraction from web pages.](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
 *	__RStudio:__ [RStudio IDE is a powerful and productive user interface for R](http://www.rstudio.com/)
 *	__GitHub:__ [Powerful collaboration, code review, and code management for open source and private projects.](https://github.com/)
 *	__Colorbrewer:__ [Color advice for cartography](http://colorbrewer2.org/)
+
+
+
+# CLI
+
 *	__ngrko:__ [Secure tunnels to localhost](https://ngrok.com/)
+*	__csvkit:__ [csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.](http://csvkit.readthedocs.org/en/latest/index.html)
+*	__journalism:__ [journalism is a Python library that takes the horror out of basic data analysis and manipulation.](http://journalism.readthedocs.org/en/0.4.0/index.html)
+*	__node:__ [As an asynchronous event driven framework, Node.js is designed to build scalable network applications.](https://nodejs.org/download/)
+*   __bower:__ [A package manager for the web](http://bower.io)
+*	__pip:__ [pip is a package management system used to install and manage software packages written in Python.](https://www.python.org/ftp/python/2.7.10/python-2.7.10-macosx10.6.pkg)
+*	__t:__ [A command-line power tool for Twitter.](https://github.com/sferik/t)
+*	__social-shares:__ [A command-line and programmatic interface to various social sharecount endpoints.](https://github.com/debrouwere/social-shares)
+*	__IPython:__ [IPython is a command shell for interactive computing in multiple programming languages.](http://ipython.org/install.html)
+*	__homebrew:__ [The missing package manager for OS X](https://raw.githubusercontent.com/Homebrew/install/master/install)
 
 # Tutorials
 
