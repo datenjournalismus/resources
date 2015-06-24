@@ -86,7 +86,7 @@
 *	[GOVDATA](https://www.govdata.de/)
 *	[Statistisches Bundesamt](https://www.destatis.de)
 
-# Visualisation
+### Visualisation
 
 *	[News Graphics Collection](http://collection.marijerooze.nl/)
 *	[DDJ Katalog](http://katalog.datenjournalismus.net/#/)
