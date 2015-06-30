@@ -46,6 +46,7 @@
 *	[The Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo)
 *	[Mariano Rivera Cutter: The Mechanics of His Signature Pitch](https://www.youtube.com/watch?v=dMVXjRGTtG0&feature=player_embedded)
 
+
 # Tools
 
 *	__OpenRefine:__ [OpenRefine is a powerful tool for working with messy data.](http://openrefine.org/)
@@ -71,6 +72,13 @@
 *	__homebrew:__ [The missing package manager for OS X](https://raw.githubusercontent.com/Homebrew/install/master/install)
 *	__wget:__ [wget is a computer program that retrieves content from web servers](https://www.gnu.org/software/wget/)
 *	__grunt:__ [The JavaScript Task Runner](http://gruntjs.com/)
+
+
+### Cheat sheets
+
+*	[Emoji unicode description](http://www.fileformat.info/info/emoji/list.htm)
+
+
 
 ### Tutorials
 
