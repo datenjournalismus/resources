@@ -55,6 +55,8 @@
 *	__RStudio:__ [RStudio IDE is a powerful and productive user interface for R](http://www.rstudio.com/)
 *	__GitHub:__ [Powerful collaboration, code review, and code management for open source and private projects.](https://github.com/)
 *	__Colorbrewer:__ [Color advice for cartography](http://colorbrewer2.org/)
+*	__Sublime Text:__ [Sublime Text is a sophisticated text editor for code, markup and prose.](http://www.sublimetext.com/)
+*	__Atom:__ [A hackable text editor for the 21st Century](https://atom.io/)
 
 
 
