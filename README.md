@@ -88,7 +88,9 @@
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
 *	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+*	[Cookbook for R](http://www.cookbook-r.com/)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
+*	[R: A Beginner's Guide](http://core0.staticworld.net/assets/2015/02/17/r4beginners.pdf)
 
 
 
