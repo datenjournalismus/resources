@@ -38,6 +38,7 @@
 *	[Flowing Data: Visualization and Statistics](http://flowingdata.com/)
 *	[NZZ Data](http://www.nzz.ch/data/)
 *	[BuzzFeed Data Blog](http://www.buzzfeed.com/datablog)
+*	[Hacker News for Data Scientists](http://www.datatau.com/)
 
 
 
