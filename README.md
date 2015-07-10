@@ -94,6 +94,7 @@
 *	[Cookbook for R](http://www.cookbook-r.com/)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
 *	[R: A Beginner's Guide](http://core0.staticworld.net/assets/2015/02/17/r4beginners.pdf)
+*	[An Intro to R for Microsoft Excel Users](https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users)
 
 
 
