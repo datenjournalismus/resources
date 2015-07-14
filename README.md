@@ -24,6 +24,8 @@
 
 * 	[Storytelling with Data Visualization: Context is King](http://towcenter.org/storytelling-with-data-visualization-context-is-king/)
 * 	[Drawing Conclusions From Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/)
+*	[Aus Datenjournalismus sollte Journalismus über Daten werden](http://datenjournalist.de/aus-datenjournalismus-sollte-journalismus-ueber-daten-werden/)
+*	[Datenvisualisierung ist noch lange kein Datenjournalismus](http://www.andreasgriess.de/2013/12/13/datenvisualisierung-ist-noch-lange-kein-datenjournalismus/)
 
 
 ### Blogs
