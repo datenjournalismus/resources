@@ -103,7 +103,7 @@
 *	[R: A Beginner's Guide](http://core0.staticworld.net/assets/2015/02/17/r4beginners.pdf)
 *	[An Intro to R for Microsoft Excel Users](https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users)
 *	[Conditional Probability with R](https://districtdatalabs.silvrback.com/conditional-probability-with-r)
-
+*	[RStudio in Kurzform](https://stat.ethz.ch/education/semesters/as2014/biostat/Uebungen/R-in-Kurzform.pdf)
 
 
 ### Data sources
