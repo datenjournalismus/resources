@@ -126,7 +126,7 @@
 
 ### Food for thought
 
-*	<link rel="shortcut icon" href="http://static01.nyt.com/favicon.ico" />  [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
+*	<img src="http://s3.amazonaws.com/static.texastribune.org/media/images/NYT_png_312x1000_q100.png" width="64" height="64" alt="NYTimes">  [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
 *	![The Washington Post](https://img.washingtonpost.com/favicon.ico)  [People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
 *	![The New York Times](http://static01.nyt.com/favicon.ico)  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
 *	![FiveThirtyEight](https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/favicon.ico?v=1.0.2)  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
