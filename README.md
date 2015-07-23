@@ -63,6 +63,7 @@
 *	__Colorbrewer:__ [Color advice for cartography](http://colorbrewer2.org/)
 *	__Sublime Text:__ [Sublime Text is a sophisticated text editor for code, markup and prose.](http://www.sublimetext.com/)
 *	__Atom:__ [A hackable text editor for the 21st Century](https://atom.io/)
+*	__Gephi:__ [Gephi is an interactive visualization and exploration platform for all kinds of networks](http://gephi.github.io/)
 
 
 ### Mapping
