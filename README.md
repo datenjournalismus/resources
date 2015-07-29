@@ -132,3 +132,9 @@
 *	__NYTimes:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
 *	__FiveThirtyEight:__  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 *  __ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
+*  __Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
+
+
+### Law and Order
+
+*	[OLG Köln: WAZ-Gruppe darf militärische Lageberichte der Bundeswehr nicht veröffentlichen](http://www.internet-law.de/2015/07/olg-koeln-waz-gruppe-darf-militaerische-lageberichte-der-bundeswehr-nicht-veroeffentlichen.html)
