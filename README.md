@@ -138,3 +138,4 @@
 ### Law and Order
 
 *	[OLG Köln: WAZ-Gruppe darf militärische Lageberichte der Bundeswehr nicht veröffentlichen](http://www.internet-law.de/2015/07/olg-koeln-waz-gruppe-darf-militaerische-lageberichte-der-bundeswehr-nicht-veroeffentlichen.html)
+*	[EuGH: Fluggesellschaft darf Buchungsportal an Screen Scraping hindern](http://irights.info/artikel/eugh-fluggesellschaft-darf-buchungsportal-an-screen-scraping-hindern/24747)
