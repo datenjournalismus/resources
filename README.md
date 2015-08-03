@@ -106,12 +106,14 @@
 *	[An Intro to R for Microsoft Excel Users](https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users)
 *	[Conditional Probability with R](https://districtdatalabs.silvrback.com/conditional-probability-with-r)
 *	[RStudio in Kurzform](https://stat.ethz.ch/education/semesters/as2014/biostat/Uebungen/R-in-Kurzform.pdf)
+*	[15 Questions All R Users Have About Plots](http://www.r-bloggers.com/15-questions-all-r-users-have-about-plots/)
 
 
 ### Data sources
 
 *	[GOVDATA](https://www.govdata.de/)
 *	[Statistisches Bundesamt](https://www.destatis.de)
+*	[Google Trends Datastore](https://googletrends.github.io/data/)
 
 ### Visualisation
 
@@ -135,7 +137,7 @@
 *  __Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
 
 
-### Law and Order
+### Law and order
 
 *	[OLG Köln: WAZ-Gruppe darf militärische Lageberichte der Bundeswehr nicht veröffentlichen](http://www.internet-law.de/2015/07/olg-koeln-waz-gruppe-darf-militaerische-lageberichte-der-bundeswehr-nicht-veroeffentlichen.html)
 *	[EuGH: Fluggesellschaft darf Buchungsportal an Screen Scraping hindern](http://irights.info/artikel/eugh-fluggesellschaft-darf-buchungsportal-an-screen-scraping-hindern/24747)
