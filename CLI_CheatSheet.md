@@ -6,4 +6,4 @@
 
 #####How to Base64 encode via command line
 
-<pre><code>$ openssl base64 -in <infile> -out <outfile></code></pre>
+<pre><code>$ openssl base64 -in INPUT_IMG_URL -out OUTPUT_FILENAME </code></pre>
