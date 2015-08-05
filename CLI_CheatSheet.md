@@ -6,6 +6,6 @@
 
 #####Encode and decode using Base64 representation (OSX)
 
-```bash
+```shell
 $ base64 -i IMAGE_URL -o OUTPUT_FILE
 ```
