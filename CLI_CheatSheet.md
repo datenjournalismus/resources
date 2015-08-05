@@ -4,6 +4,6 @@
 
 ### Random stuff
 
-#####How to Base64 encode via command line
+#####Encode and decode using Base64 representation (OSX)
 
-`$ openssl base64 -in INPUT_IMG_URL -out OUTPUT_FILENAME`
+`$ base64 -i IMAGE_URL -o OUTPUT_FILE`
