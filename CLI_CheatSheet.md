@@ -9,3 +9,9 @@
 ```shell
 $ base64 -i IMAGE_URL -o OUTPUT_FILE
 ```
+
+#####How to run a script starting from a specific line
+
+```shell
+$ bash <(sed -n '5,$p' yourscript.sh)
+```
