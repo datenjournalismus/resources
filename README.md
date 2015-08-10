@@ -99,6 +99,7 @@
 *	[OpenRefine Tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
 *	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
+*	[UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 *	[Cookbook for R](http://www.cookbook-r.com/)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
@@ -108,6 +109,7 @@
 *	[RStudio in Kurzform](https://stat.ethz.ch/education/semesters/as2014/biostat/Uebungen/R-in-Kurzform.pdf)
 *	[15 Questions All R Users Have About Plots](http://www.r-bloggers.com/15-questions-all-r-users-have-about-plots/)
 *	[This R Data Import Tutorial Is Everything You Need](http://blog.datacamp.com/r-data-import-tutorial/)
+
 
 
 ### Data sources
