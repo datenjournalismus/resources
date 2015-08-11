@@ -132,13 +132,14 @@
 *	[This is Who Republican Presidential Contenders Follow on Twitter](http://www.bloomberg.com/politics/graphics/2015-who-republican-candidates-follow/)
 
 
-### Food for thought
+### Examples
 
 *	__NYTimes:__ [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
 *	__The Washington Post:__ [People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
 *	__NYTimes:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
 *	__FiveThirtyEight:__  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 *	__FiveThirtyEight:__ [Uber Is Serving New York’s Outer Boroughs More Than Taxis Are](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/)
+*	__FiveThirtyEight:__ [The shapes of past endorsement primaries](http://projects.fivethirtyeight.com/2016-endorsement-primary/)
 *  __ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
 *  __Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
 
