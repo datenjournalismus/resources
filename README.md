@@ -110,6 +110,7 @@
 *	[RStudio in Kurzform](https://stat.ethz.ch/education/semesters/as2014/biostat/Uebungen/R-in-Kurzform.pdf)
 *	[15 Questions All R Users Have About Plots](http://www.r-bloggers.com/15-questions-all-r-users-have-about-plots/)
 *	[This R Data Import Tutorial Is Everything You Need](http://blog.datacamp.com/r-data-import-tutorial/)
+*	[Understanding Statistical Power and Significance Testing](http://rpsychologist.com/d3/NHST/)
 
 
 
