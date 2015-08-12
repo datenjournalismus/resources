@@ -18,6 +18,7 @@
 *	[Classic Shell Scripting](http://shop.oreilly.com/product/9780596005955.do) by Arnold Robbins and Nelson H. F. Beebe
 *	[R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do) by Winston Chang
 *	[Stats: Data and Models (3rd Edition)](http://www.amazon.com/Stats-Models-Richard-D-Veaux/dp/0321692551/ref=sr_1_1?ie=UTF8&qid=1435134787&sr=8-1&keywords=stats+and+models+3rd+edition) by Richard D. De Veaux et al.
+*	[Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
 
 
 ### Articles
@@ -111,6 +112,7 @@
 *	[15 Questions All R Users Have About Plots](http://www.r-bloggers.com/15-questions-all-r-users-have-about-plots/)
 *	[This R Data Import Tutorial Is Everything You Need](http://blog.datacamp.com/r-data-import-tutorial/)
 *	[Understanding Statistical Power and Significance Testing](http://rpsychologist.com/d3/NHST/)
+*	[D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
 
 
 
