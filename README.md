@@ -66,6 +66,7 @@
 *	__Sublime Text:__ [Sublime Text is a sophisticated text editor for code, markup and prose.](http://www.sublimetext.com/)
 *	__Atom:__ [A hackable text editor for the 21st Century](https://atom.io/)
 *	__Gephi:__ [Gephi is an interactive visualization and exploration platform for all kinds of networks](http://gephi.github.io/)
+*	__Sublime-interview-syntax:__ [A Sublime Text syntax definition and highlighter meant to help reporters as they conduct interviews.](https://github.com/mhkeller/sublime-interview-syntax)
 
 
 ### Mapping
@@ -127,6 +128,9 @@
 *	[News Graphics Collection](http://collection.marijerooze.nl/)
 *	[DDJ Katalog](http://katalog.datenjournalismus.net/#/)
 *	[Graphic Libraries](http://selection.datavisualization.ch/)
+*	[Bloomberg Interactives](http://www.bloomberg.com/graphics)
+*	[New York Times Interactives](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html#data-driven-stories)
+*	[Five Thirty Eight Interactives](https://fivethirtyeight.com/interactives/)
 
 ### SNA
 
