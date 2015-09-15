@@ -20,6 +20,7 @@
 *	[Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
 *	[Stats: Data and Models (3rd Edition)](http://www.amazon.com/Stats-Models-Richard-D-Veaux/dp/0321692551/ref=sr_1_1?ie=UTF8&qid=1435134787&sr=8-1&keywords=stats+and+models+3rd+edition) by Richard D. De Veaux et al.
 *	[Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
+*	[Data+Design: A simple introduction to preparing and visualizing information](https://infoactive.co/data-design/)
 
 
 ### Articles
