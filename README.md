@@ -17,6 +17,7 @@
 *	[Data Science at the Command Line](http://datascienceatthecommandline.com/) by Jeroen Janssens
 *	[Classic Shell Scripting](http://shop.oreilly.com/product/9780596005955.do) by Arnold Robbins and Nelson H. F. Beebe
 *	[R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do) by Winston Chang
+*	[Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
 *	[Stats: Data and Models (3rd Edition)](http://www.amazon.com/Stats-Models-Richard-D-Veaux/dp/0321692551/ref=sr_1_1?ie=UTF8&qid=1435134787&sr=8-1&keywords=stats+and+models+3rd+edition) by Richard D. De Veaux et al.
 *	[Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
 
@@ -67,6 +68,7 @@
 *	__Atom:__ [A hackable text editor for the 21st Century](https://atom.io/)
 *	__Gephi:__ [Gephi is an interactive visualization and exploration platform for all kinds of networks](http://gephi.github.io/)
 *	__Sublime-interview-syntax:__ [A Sublime Text syntax definition and highlighter meant to help reporters as they conduct interviews.](https://github.com/mhkeller/sublime-interview-syntax)
+*	__agate:__ [agate is a Python data analysis library](https://agate.readthedocs.org/en/0.9.0/#id1)
 
 
 ### Mapping
