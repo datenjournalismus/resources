@@ -90,6 +90,7 @@
 *	__t:__ [A command-line power tool for Twitter.](https://github.com/sferik/t)
 *	__social-shares:__ [A command-line and programmatic interface to various social sharecount endpoints.](https://github.com/debrouwere/social-shares)
 *	__IPython:__ [IPython is a command shell for interactive computing in multiple programming languages.](http://ipython.org/install.html)
+*	__Jupyter:__ [Open source, interactive data science and scientific computing](http://jupyter.org/)
 *	__homebrew:__ [The missing package manager for OS X](https://raw.githubusercontent.com/Homebrew/install/master/install)
 *	__wget:__ [wget is a computer program that retrieves content from web servers](https://www.gnu.org/software/wget/)
 *	__grunt:__ [The JavaScript Task Runner](http://gruntjs.com/)
