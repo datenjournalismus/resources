@@ -71,6 +71,7 @@
 *	__Gephi:__ [Gephi is an interactive visualization and exploration platform for all kinds of networks](http://gephi.github.io/)
 *	__Sublime-interview-syntax:__ [A Sublime Text syntax definition and highlighter meant to help reporters as they conduct interviews.](https://github.com/mhkeller/sublime-interview-syntax)
 *	__agate:__ [agate is a Python data analysis library](https://agate.readthedocs.org/en/0.9.0/#id1)
+*	__Mr. Data Converter:__ [Will convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML.](https://shancarter.github.io/mr-data-converter/)
 
 
 ### Mapping
