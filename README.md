@@ -109,6 +109,12 @@
 *	[How to scrape Toronto data: a basic tutorial](http://datadrivenjournalism.net/resources/how_to_scrape_toronto_data_a_basic_tutorial)
 *	[Command Line Tutorial](https://github.com/onyxfish/command-line-tutorial)
 *	[UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
+*	[Understanding Statistical Power and Significance Testing](http://rpsychologist.com/d3/NHST/)
+*	[D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
+*	[How to Use Simple Excel Functions for Data Analysis](http://www.icij.org/resources/simple-excel-functions-data-analysis)
+
+### R Tutorials
+
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 *	[Cookbook for R](http://www.cookbook-r.com/)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
@@ -118,11 +124,9 @@
 *	[RStudio in Kurzform](https://stat.ethz.ch/education/semesters/as2014/biostat/Uebungen/R-in-Kurzform.pdf)
 *	[15 Questions All R Users Have About Plots](http://www.r-bloggers.com/15-questions-all-r-users-have-about-plots/)
 *	[This R Data Import Tutorial Is Everything You Need](http://blog.datacamp.com/r-data-import-tutorial/)
-*	[Understanding Statistical Power and Significance Testing](http://rpsychologist.com/d3/NHST/)
-*	[D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
-*	[How to Use Simple Excel Functions for Data Analysis](http://www.icij.org/resources/simple-excel-functions-data-analysis)
 * 	[Handling date-times in R](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ColeBeck/datestimes.pdf)
 *	[R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
+*	[Pivot Tables in R with dplyr](http://marcoghislanzoni.com/blog/2014/09/01/pivot-tables-r-dplyr/)
 
 
 
@@ -147,7 +151,7 @@
 *	[This is Who Republican Presidential Contenders Follow on Twitter](http://www.bloomberg.com/politics/graphics/2015-who-republican-candidates-follow/)
 
 
-### Examples
+### Food for thought
 
 *	__NYTimes:__ [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
 *	__The Washington Post:__ [People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
