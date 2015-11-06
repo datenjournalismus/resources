@@ -84,7 +84,6 @@
 
 *	__ngrok:__ [Secure tunnels to localhost](https://ngrok.com/)
 *	__csvkit:__ [csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.](http://csvkit.readthedocs.org/en/latest/index.html)
-*	__journalism:__ [journalism is a Python library that takes the horror out of basic data analysis and manipulation.](http://journalism.readthedocs.org/en/0.4.0/index.html)
 *	__node:__ [As an asynchronous event driven framework, Node.js is designed to build scalable network applications.](https://nodejs.org/download/)
 *   __bower:__ [A package manager for the web](http://bower.io)
 *	__pip:__ [pip is a package management system used to install and manage software packages written in Python.](https://www.python.org/ftp/python/2.7.10/python-2.7.10-macosx10.6.pkg)
