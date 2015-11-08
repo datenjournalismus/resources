@@ -163,6 +163,8 @@
 *  __BuzzFeed:__ [These 6 Charts Show Why Katrina Was The Storm From Hell](http://www.buzzfeed.com/peteraldhous/why-katrina-was-the-storm-from-hell)
 *  __ZEIT Online:__ [Warum uns das iPhone Milliarden kostet](http://www.zeit.de/wirtschaft/unternehmen/2015-09/iphone-apple-steuern-europa)
 *  __Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
+*  __Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+*  __Faces of Fracking:__ [California,s Getting Fracked](http://www.facesoffracking.org/data-visualization/)
 
 
 ### Law and order
