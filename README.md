@@ -25,12 +25,14 @@
 
 ### Articles
 
+*	[Fifty Years of Journalism and Data: A Brief History](http://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/?utm_content=buffer28eda&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * 	[Storytelling with Data Visualization: Context is King](http://towcenter.org/storytelling-with-data-visualization-context-is-king/)
 * 	[Drawing Conclusions From Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/)
 *	[Aus Datenjournalismus sollte Journalismus über Daten werden](http://datenjournalist.de/aus-datenjournalismus-sollte-journalismus-ueber-daten-werden/)
 *	[Datenvisualisierung ist noch lange kein Datenjournalismus](http://www.andreasgriess.de/2013/12/13/datenvisualisierung-ist-noch-lange-kein-datenjournalismus/)
 *	[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0)
 *	[Chart shown at Planned Parenthood hearing is misleading and 'ethically wrong'](http://www.politifact.com/truth-o-meter/statements/2015/oct/01/jason-chaffetz/chart-shown-planned-parenthood-hearing-misleading-/)
+
 
 
 ### Blogs
