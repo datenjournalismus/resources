@@ -136,7 +136,7 @@
 *	[GOVDATA](https://www.govdata.de/)
 *	[Statistisches Bundesamt](https://www.destatis.de)
 *	[Google Trends Datastore](https://googletrends.github.io/data/)
-*	[ECDC](http://ecdc.europa.eu/en/data-tools/Pages/home.aspx)
+*	[European Centre for Disease Prevention and Control](http://ecdc.europa.eu/en/data-tools/Pages/home.aspx)
 
 ### Visualisation
 
@@ -155,9 +155,9 @@
 
 ### Food for thought
 
-*	__NYTimes:__ [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
+*	__New York Times:__ [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
 *	__The Washington Post:__ [People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
-*	__NYTimes:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
+*	__New York Times:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
 *	__FiveThirtyEight:__  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 *	__FiveThirtyEight:__ [Uber Is Serving New York’s Outer Boroughs More Than Taxis Are](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/)
 *	__FiveThirtyEight:__ [The shapes of past endorsement primaries](http://projects.fivethirtyeight.com/2016-endorsement-primary/)
@@ -169,7 +169,7 @@
 *  	__Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
 *  	__Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 *  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
-*	__[Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
+*	__New York Times[Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
 
 
 ### Law and order
