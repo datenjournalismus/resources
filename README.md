@@ -136,6 +136,7 @@
 *	[GOVDATA](https://www.govdata.de/)
 *	[Statistisches Bundesamt](https://www.destatis.de)
 *	[Google Trends Datastore](https://googletrends.github.io/data/)
+*	[ECDC](http://ecdc.europa.eu/en/data-tools/Pages/home.aspx)
 
 ### Visualisation
 
@@ -160,13 +161,15 @@
 *	__FiveThirtyEight:__  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 *	__FiveThirtyEight:__ [Uber Is Serving New York’s Outer Boroughs More Than Taxis Are](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/)
 *	__FiveThirtyEight:__ [The shapes of past endorsement primaries](http://projects.fivethirtyeight.com/2016-endorsement-primary/)
-*  __ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
-*  __Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
-*  __BuzzFeed:__ [These 6 Charts Show Why Katrina Was The Storm From Hell](http://www.buzzfeed.com/peteraldhous/why-katrina-was-the-storm-from-hell)
-*  __ZEIT Online:__ [Warum uns das iPhone Milliarden kostet](http://www.zeit.de/wirtschaft/unternehmen/2015-09/iphone-apple-steuern-europa)
-*  __Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
-*  __Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
-*  __Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
+*	__FiveThirtyEight:__ [Which City Has The Most Unpredictable Weather?](http://fivethirtyeight.com/features/which-city-has-the-most-unpredictable-weather/)
+*  	__ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
+*  	__Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
+*  	__BuzzFeed:__ [These 6 Charts Show Why Katrina Was The Storm From Hell](http://www.buzzfeed.com/peteraldhous/why-katrina-was-the-storm-from-hell)
+*  	__ZEIT Online:__ [Warum uns das iPhone Milliarden kostet](http://www.zeit.de/wirtschaft/unternehmen/2015-09/iphone-apple-steuern-europa)
+*  	__Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
+*  	__Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+*  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
+*	__[Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
 
 
 ### Law and order
