@@ -169,7 +169,7 @@
 *  	__Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
 *  	__Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 *  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
-*	__New York Times[Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
+*	__New York Times:__ [Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
 *	__FiveThirtyEight:__ [Which Flight Will Get You There Fastest?](http://projects.fivethirtyeight.com/flights/)
 
 
