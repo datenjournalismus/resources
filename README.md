@@ -121,6 +121,7 @@
 
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 *	[Cookbook for R](http://www.cookbook-r.com/)
+*	[Use emoji in your ggplot2 plots](https://github.com/dill/emoGG)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
 *	[R: A Beginner's Guide](http://core0.staticworld.net/assets/2015/02/17/r4beginners.pdf)
 *	[An Intro to R for Microsoft Excel Users](https://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users)
