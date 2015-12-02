@@ -37,6 +37,7 @@
 
 
 
+
 ### Blogs
 
 *	[Guradian Data Blog](http://www.theguardian.com/data)
@@ -175,6 +176,7 @@
 *  	__Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
 *  	__Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 *  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
+*	__The Washington Center for Equitable Growth:__	[An introduction to the geography of student debt](http://equitablegrowth.org/an-introduction-to-the-geography-of-student-debt/)
 
 
 
