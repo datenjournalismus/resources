@@ -117,6 +117,7 @@
 *	[Understanding Statistical Power and Significance Testing](http://rpsychologist.com/d3/NHST/)
 *	[D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
 *	[How to Use Simple Excel Functions for Data Analysis](http://www.icij.org/resources/simple-excel-functions-data-analysis)
+*	[An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.](https://github.com/Quartz/bad-data-guide/)
 
 ### R Tutorials
 
