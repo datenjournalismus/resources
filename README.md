@@ -118,6 +118,10 @@
 *	[D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
 *	[How to Use Simple Excel Functions for Data Analysis](http://www.icij.org/resources/simple-excel-functions-data-analysis)
 *	[An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.](https://github.com/Quartz/bad-data-guide/)
+*	[Cleaning CSV Data Using the Command Line and csvkit, Part 1](https://www.dataquest.io/blog/data-cleaning-command-line/)
+*	[Using PostGIS, SQL, and CartoDB to identify schools at risk from Oklahoma's earthquakes](http://2015.padjo.org/tutorials/mapping/077-ok-schools-quakes/)
+*	[Public Affairs Data Journalism at Stanford University: Walkthroughs and guides to data journalism technology and computational techniques](http://2015.padjo.org/tutorials/)
+*	[Public Affairs Data Journalism at Stanford University: Walkthroughs and guides to data journalism technology and computational techniques](http://fall2014.padjo.org/tutorials/)
 
 ### R Tutorials
 
