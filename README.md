@@ -1,14 +1,6 @@
 # Data-Driven Journalism Collection
 ##### curated by [@pushthings4ward](http://www.twitter.com/pushthings4ward)
 
-As Nathan Yau said:
-
-> _All statisticians and anyone who wants to seriously analyze and visualize data needs to know how to program._
-> _Whether it’s R or something else, it doesn’t really matter – as long as it gets the job done. Otherwise,_
-> _you’re always waiting for someone who does know code._
-
-> [flowingdata.com](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/)
-
 
 ### Books
 
@@ -130,6 +122,15 @@ As Nathan Yau said:
 *	[Using PostGIS, SQL, and CartoDB to identify schools at risk from Oklahoma's earthquakes](http://2015.padjo.org/tutorials/mapping/077-ok-schools-quakes/)
 *	[2015 - Public Affairs Data Journalism at Stanford University](http://2015.padjo.org/tutorials/)
 *	[2014 - Public Affairs Data Journalism at Stanford University](http://fall2014.padjo.org/tutorials/)
+
+
+As Nathan Yau said:
+[flowingdata.com](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/)
+
+> _All statisticians and anyone who wants to seriously analyze and visualize data needs to know how to program._
+> _Whether it’s R or something else, it doesn’t really matter – as long as it gets the job done. Otherwise,_
+> _you’re always waiting for someone who does know code._
+
 
 ### R Tutorials
 
