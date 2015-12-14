@@ -124,8 +124,7 @@
 *	[2014 - Public Affairs Data Journalism at Stanford University](http://fall2014.padjo.org/tutorials/)
 
 
-As Nathan Yau said:
-[flowingdata.com](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/)
+As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/) said:
 
 > _All statisticians and anyone who wants to seriously analyze and visualize data needs to know how to program._
 > _Whether it’s R or something else, it doesn’t really matter – as long as it gets the job done. Otherwise,_
