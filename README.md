@@ -138,7 +138,15 @@
 * 	[Handling date-times in R](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ColeBeck/datestimes.pdf)
 *	[R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 *	[Pivot Tables in R with dplyr](http://marcoghislanzoni.com/blog/2014/09/01/pivot-tables-r-dplyr/)
+*	[Download and plot Google Trends data with R](http://blog.revolutionanalytics.com/2015/12/download-and-plot-google-trends-data-with-r.html)
 
+### R Packages
+
+*	[ggplot2: An Implementation of the Grammar of Graphics](https://cran.r-project.org/web/packages/ggplot2/index.html)
+*	[tidyr: It's designed specifically for data tidying and works well with 'dplyr' data pipelines.](https://cran.r-project.org/web/packages/tidyr/index.html)
+*	[dplyr: A Grammar of Data Manipulation.](https://cran.r-project.org/web/packages/dplyr/index.html)
+*	[gtrendsr: R Functions to Perform and Display Google Trends Queries](https://cran.r-project.org/web/packages/gtrendsR/index.html)
+*	[emoGG: Use emoji in your ggplot2 plots.](https://github.com/dill/emoGG)
 
 
 ### Data sources
