@@ -3,9 +3,9 @@
 
 As Nathan Yau said:
 
-> All statisticians and anyone who wants to seriously analyze and visualize data needs to know how to program.
-> Whether it’s R or something else, it doesn’t really matter – as long as it gets the job done. Otherwise,
-> you’re always waiting for someone who does know code.
+> _All statisticians and anyone who wants to seriously analyze and visualize data needs to know how to program._
+> _Whether it’s R or something else, it doesn’t really matter – as long as it gets the job done. Otherwise,_
+> _you’re always waiting for someone who does know code._
 
 > [flowingdata.com](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/)
 
