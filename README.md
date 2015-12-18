@@ -204,7 +204,10 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__Bloomberg:__ [Star Wars The Force Accounted](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)
 
 
+### GIFs
 
+*	__AJ+:__ [When it comes to carbon emissions, the rich are to blame.](https://twitter.com/ajplus/status/676469486845759489)
+*	__AJ+:__ [Rigorous public safety standards have led to significant decreases in vehicular deaths.](https://twitter.com/ajplus/status/676533742966431744)
 
 ### Law and order
 
