@@ -154,6 +154,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[tidyr: It's designed specifically for data tidying and works well with 'dplyr' data pipelines.](https://cran.r-project.org/web/packages/tidyr/index.html)
 *	[dplyr: A Grammar of Data Manipulation.](https://cran.r-project.org/web/packages/dplyr/index.html)
 *	[gtrendsr: R Functions to Perform and Display Google Trends Queries](https://cran.r-project.org/web/packages/gtrendsR/index.html)
+*	[twitteR: twitteR is an R package which provides access to the Twitter API](https://cran.r-project.org/web/packages/twitteR/index.html)
 *	[emoGG: Use emoji in your ggplot2 plots.](https://github.com/dill/emoGG)
 *	[emojifont: Using emoji font in R](https://github.com/GuangchuangYu/emojifont)
 
