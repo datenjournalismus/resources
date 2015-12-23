@@ -212,6 +212,11 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__AJ+:__ [When it comes to carbon emissions, the rich are to blame.](https://twitter.com/ajplus/status/676469486845759489)
 *	__AJ+:__ [Rigorous public safety standards have led to significant decreases in vehicular deaths.](https://twitter.com/ajplus/status/676533742966431744)
 
+
+### US Election
+
+![](https://espnfivethirtyeight.files.wordpress.com/2015/12/otm_consumer_handbook_-electionpollsedition_1400.png?w=610&h=610 "US Election")
+
 ### Law and order
 
 *	[OLG Köln: WAZ-Gruppe darf militärische Lageberichte der Bundeswehr nicht veröffentlichen](http://www.internet-law.de/2015/07/olg-koeln-waz-gruppe-darf-militaerische-lageberichte-der-bundeswehr-nicht-veroeffentlichen.html)
