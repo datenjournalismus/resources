@@ -33,6 +33,7 @@
 *	[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0)
 *	[Chart shown at Planned Parenthood hearing is misleading and 'ethically wrong'](http://www.politifact.com/truth-o-meter/statements/2015/oct/01/jason-chaffetz/chart-shown-planned-parenthood-hearing-misleading-/)
 *	[Müssen Datenjournalisten programmieren können?](http://datenjournalist.de/muessen-datenjournalisten-programmieren-koennen/)
+*	[The most misleading charts of 2015, fixed](http://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
 
 
 
@@ -77,6 +78,7 @@
 *	__Sublime-interview-syntax:__ [A Sublime Text syntax definition and highlighter meant to help reporters as they conduct interviews.](https://github.com/mhkeller/sublime-interview-syntax)
 *	__agate:__ [agate is a Python data analysis library](https://agate.readthedocs.org/en/0.9.0/#id1)
 *	__Mr. Data Converter:__ [Will convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML.](https://shancarter.github.io/mr-data-converter/)
+*	__Fieldbook:__ [A database with an API – as simple as a spreadsheet](https://fieldbook.com)
 
 
 ### Mapping
@@ -99,6 +101,7 @@
 *	__homebrew:__ [The missing package manager for OS X](https://raw.githubusercontent.com/Homebrew/install/master/install)
 *	__wget:__ [wget is a computer program that retrieves content from web servers](https://www.gnu.org/software/wget/)
 *	__grunt:__ [The JavaScript Task Runner](http://gruntjs.com/)
+*	__jq:__ [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/)
 
 
 ### Cheat sheets
@@ -173,7 +176,8 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[DDJ Katalog](http://katalog.datenjournalismus.net/#/)
 *	[Graphic Libraries](http://selection.datavisualization.ch/)
 *	[Bloomberg Interactives](http://www.bloomberg.com/graphics)
-*	[New York Times Interactives](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html#data-driven-stories)
+*	[New York Times Interactives 2014](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html#data-driven-stories)
+*	[New York Times Interactives 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 *	[Five Thirty Eight Interactives](https://fivethirtyeight.com/interactives/)
 
 ### SNA
@@ -189,6 +193,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__New York Times:__ [Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
 *	__New York Times:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
 *	__New York Times:__ [Air Pollution Widespread in China](http://www.nytimes.com/interactive/2015/12/18/world/asia/air-pollution-widespread-china-beijing-red-alert-maps-charts.html?smid=pl-share&_r=1)
+*	__New York Times:__ [Delhi’s Air Is Often More Polluted Than Beijing’s](http://www.nytimes.com/interactive/2015/02/05/world/asia/delhis-air-more-polluted-than-beijings.html?smid=tw-share)
 *	__FiveThirtyEight:__  [How to Tell Someone’s Age When All You Know Is Her Name](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/)
 *	__FiveThirtyEight:__ [Uber Is Serving New York’s Outer Boroughs More Than Taxis Are](http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/)
 *	__FiveThirtyEight:__ [The shapes of past endorsement primaries](http://projects.fivethirtyeight.com/2016-endorsement-primary/)
@@ -205,6 +210,14 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__The Washington Center for Equitable Growth:__	[An introduction to the geography of student debt](http://equitablegrowth.org/an-introduction-to-the-geography-of-student-debt/)
 *	__NPR:__ [The CDC Gives U.S. Schools Low Marks In Sex Ed](http://www.npr.org/sections/ed/2015/12/10/457281553/the-cdc-gives-u-s-schools-low-marks-in-sex-ed)
 *	__Bloomberg:__ [Star Wars The Force Accounted](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)
+*	__Quartz:__ [Why infectious bacteria are winning](http://qz.com/576057/why-infectious-bacteria-are-winning/)
+*	__The Guardian US:__ [Gun deaths in your district: what have your elected representatives done?](http://www.theguardian.com/us-news/ng-interactive/2015/dec/14/gun-control-laws-congress-shooting-deaths-nra-lobby-campaign-donations#49-03)
+
+
+### DB Projects
+
+
+*	__The Guardian US:__ [The Counted: People killed by police in the US](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database#)
 
 
 ### GIFs
@@ -213,7 +226,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__AJ+:__ [Rigorous public safety standards have led to significant decreases in vehicular deaths.](https://twitter.com/ajplus/status/676533742966431744)
 
 
-### US Election
+### US Election and Polls
 
 ![](https://espnfivethirtyeight.files.wordpress.com/2015/12/otm_consumer_handbook_-electionpollsedition_1400.png?w=610&h=610 "US Election")
 
