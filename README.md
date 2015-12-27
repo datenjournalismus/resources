@@ -153,7 +153,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Pivot Tables in R with dplyr](http://marcoghislanzoni.com/blog/2014/09/01/pivot-tables-r-dplyr/)
 *	[Download and plot Google Trends data with R](http://blog.revolutionanalytics.com/2015/12/download-and-plot-google-trends-data-with-r.html)
 *	[An Intro to Probability with R](http://districtdatalabs.silvrback.com/intro-to-probability-with-r)
-*	[Conditional Probability with R](https://districtdatalabs.silvrback.com/conditional-probability-with-r)
+
 
 ### R Packages
 
