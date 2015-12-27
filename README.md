@@ -170,8 +170,8 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 
 ### Statistics
 
-*	[Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit](https://www.youtube.com/watch?v=LonDC-l4IVs)
-*	[Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit - Beispiel](https://www.youtube.com/watch?v=e6AWeJo1EYg)
+*	[Video-Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit](https://www.youtube.com/watch?v=LonDC-l4IVs)
+*	[Video-Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit - Beispiel](https://www.youtube.com/watch?v=e6AWeJo1EYg)
 *	[Explainer: Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 *	[Bayes-Theorem: Prüfungsaufgaben und Lösungen](http://www.poenitz-net.de/Mathematik/3.Stochastik/3.2.F.Bedingte%20Wahrscheinlichkeit.pdf)
 
