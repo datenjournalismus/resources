@@ -21,6 +21,8 @@
 *	[Stats: Data and Models (3rd Edition)](http://www.amazon.com/Stats-Models-Richard-D-Veaux/dp/0321692551/ref=sr_1_1?ie=UTF8&qid=1435134787&sr=8-1&keywords=stats+and+models+3rd+edition) by Richard D. De Veaux et al.
 *	[Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
 *	[Data+Design: A simple introduction to preparing and visualizing information](https://infoactive.co/data-design/)
+*	[Fifty challenging problems in probability with solutions](http://www.amazon.de/Fifty-challenging-problems-probability-solutions/dp/0486653552) by Frederick Mosteller
+*	[Doing Bayesian Data Analysis](http://www.amazon.de/Doing-Bayesian-Data-Analysis-Kruschke/dp/0124058884/ref=dp_ob_title_bk) by John Kruschke
 
 
 ### Articles
@@ -150,6 +152,8 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 *	[Pivot Tables in R with dplyr](http://marcoghislanzoni.com/blog/2014/09/01/pivot-tables-r-dplyr/)
 *	[Download and plot Google Trends data with R](http://blog.revolutionanalytics.com/2015/12/download-and-plot-google-trends-data-with-r.html)
+*	[An Intro to Probability with R](http://districtdatalabs.silvrback.com/intro-to-probability-with-r)
+*	[Conditional Probability with R](https://districtdatalabs.silvrback.com/conditional-probability-with-r)
 
 ### R Packages
 
@@ -163,6 +167,13 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[emoGG: Use emoji in your ggplot2 plots.](https://github.com/dill/emoGG)
 *	[emojifont: Using emoji font in R](https://github.com/GuangchuangYu/emojifont)
 
+
+### Statistics
+
+*	[Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit](https://www.youtube.com/watch?v=LonDC-l4IVs)
+*	[Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit - Beispiel](https://www.youtube.com/watch?v=e6AWeJo1EYg)
+*	[Explainer: Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+*	[Bayes-Theorem: Prüfungsaufgaben und Lösungen](http://www.poenitz-net.de/Mathematik/3.Stochastik/3.2.F.Bedingte%20Wahrscheinlichkeit.pdf)
 
 
 ### Data sources
