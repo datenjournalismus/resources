@@ -183,6 +183,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Google Trends Datastore](https://googletrends.github.io/data/)
 *	[European Centre for Disease Prevention and Control](http://ecdc.europa.eu/en/data-tools/Pages/home.aspx)
 *	[Berkeley Earth](http://berkeleyearth.org)
+*	[Statistische Ämter des Bundes und der Länder](http://www.statistik-portal.de/Statistik-portal/LinksUebersicht.asp#Deutschland)
 
 ### Visualisation
 
@@ -238,6 +239,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 
 *	__AJ+:__ [When it comes to carbon emissions, the rich are to blame.](https://twitter.com/ajplus/status/676469486845759489)
 *	__AJ+:__ [Rigorous public safety standards have led to significant decreases in vehicular deaths.](https://twitter.com/ajplus/status/676533742966431744)
+*	__AJ+:__ [Pink tax: What do women pay extra for?](https://twitter.com/ajplus/status/680186415569715200)
 
 
 ### US Election and Polls
