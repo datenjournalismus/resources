@@ -36,6 +36,7 @@
 *	[Chart shown at Planned Parenthood hearing is misleading and 'ethically wrong'](http://www.politifact.com/truth-o-meter/statements/2015/oct/01/jason-chaffetz/chart-shown-planned-parenthood-hearing-misleading-/)
 *	[Müssen Datenjournalisten programmieren können?](http://datenjournalist.de/muessen-datenjournalisten-programmieren-koennen/)
 *	[The most misleading charts of 2015, fixed](http://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
+*	[How To Make Sense Of Conflicting, Confusing And Misleading Crime Statistics](http://fivethirtyeight.com/features/how-to-make-sense-of-conflicting-confusing-and-misleading-crime-statistics/)
 
 
 
@@ -228,6 +229,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__Bloomberg:__ [Star Wars The Force Accounted](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)
 *	__Quartz:__ [Why infectious bacteria are winning](http://qz.com/576057/why-infectious-bacteria-are-winning/)
 *	__The Guardian US:__ [Gun deaths in your district: what have your elected representatives done?](http://www.theguardian.com/us-news/ng-interactive/2015/dec/14/gun-control-laws-congress-shooting-deaths-nra-lobby-campaign-donations#49-03)
+*	__The Guardian:__ [US-led airstrikes against Islamic State in Syria and Iraq](http://www.theguardian.com/world/ng-interactive/2016/jan/08/us-led-airstrikes-against-islamic-state-syria-iraq-interactive-isis?CMP=share_btn_tw)
 
 
 ### DB Projects
