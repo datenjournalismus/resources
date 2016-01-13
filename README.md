@@ -35,6 +35,7 @@
 *	[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0)
 *	[Chart shown at Planned Parenthood hearing is misleading and 'ethically wrong'](http://www.politifact.com/truth-o-meter/statements/2015/oct/01/jason-chaffetz/chart-shown-planned-parenthood-hearing-misleading-/)
 *	[Müssen Datenjournalisten programmieren können?](http://datenjournalist.de/muessen-datenjournalisten-programmieren-koennen/)
+*	[Reducing barriers between programmers and non-programmers in the newsroom](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/)
 *	[The most misleading charts of 2015, fixed](http://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
 *	[How To Make Sense Of Conflicting, Confusing And Misleading Crime Statistics](http://fivethirtyeight.com/features/how-to-make-sense-of-conflicting-confusing-and-misleading-crime-statistics/)
 
@@ -248,6 +249,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 ### US Election and Polls
 
 ![](https://espnfivethirtyeight.files.wordpress.com/2015/12/otm_consumer_handbook_-electionpollsedition_1400.png?w=610&h=610 "US Election")
+*	__FiveThirtyEight:__ [2016 Primary Forecasts](http://projects.fivethirtyeight.com/election-2016/primary-forecast/iowa-republican/)
 
 ### Law and order
 
