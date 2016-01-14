@@ -15,3 +15,10 @@ $ base64 -i IMAGE_URL -o OUTPUT_FILE
 ```shell
 $ bash <(sed -n '5,$p' yourscript.sh)
 ```
+
+
+#####How install imagemagick with homebrew
+
+```shell
+$ brew update && brew upgrade && brew install imagemagick
+```
