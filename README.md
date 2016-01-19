@@ -162,6 +162,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[ggplot2: An Implementation of the Grammar of Graphics](https://cran.r-project.org/web/packages/ggplot2/index.html)
 *	[tidyr: It's designed specifically for data tidying and works well with 'dplyr' data pipelines.](https://cran.r-project.org/web/packages/tidyr/index.html)
 *	[dplyr: A Grammar of Data Manipulation.](https://cran.r-project.org/web/packages/dplyr/index.html)
+*	[reshape2: Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast).](https://cran.r-project.org/web/packages/reshape2/index.html)
 *	[stringr: Simple, Consistent Wrappers for Common String Operations](https://cran.r-project.org/web/packages/stringr/)
 *	[shiny: A web application framework for R](http://shiny.rstudio.com/)
 *	[gtrendsr: R Functions to Perform and Display Google Trends Queries](https://cran.r-project.org/web/packages/gtrendsR/index.html)
@@ -193,7 +194,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 
 *	[BuzzFeed News](https://github.com/BuzzFeedNews)
 *	[FiveThirtyEight](https://github.com/fivethirtyeight)
-*	[]()
+
 
 ### Visualisation
 
