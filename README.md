@@ -188,6 +188,13 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Statistische Ämter des Bundes und der Länder](http://www.statistik-portal.de/Statistik-portal/LinksUebersicht.asp#Deutschland)
 *	[Umwelt Bundesamt](http://www.umweltbundesamt.de/daten)
 
+
+### GitHub accounts
+
+*	[BuzzFeed News](https://github.com/BuzzFeedNews)
+*	[FiveThirtyEight](https://github.com/fivethirtyeight)
+*	[]()
+
 ### Visualisation
 
 *	[News Graphics Collection](http://collection.marijerooze.nl/)
@@ -232,6 +239,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__Quartz:__ [Why infectious bacteria are winning](http://qz.com/576057/why-infectious-bacteria-are-winning/)
 *	__The Guardian US:__ [Gun deaths in your district: what have your elected representatives done?](http://www.theguardian.com/us-news/ng-interactive/2015/dec/14/gun-control-laws-congress-shooting-deaths-nra-lobby-campaign-donations#49-03)
 *	__The Guardian:__ [US-led airstrikes against Islamic State in Syria and Iraq](http://www.theguardian.com/world/ng-interactive/2016/jan/08/us-led-airstrikes-against-islamic-state-syria-iraq-interactive-isis?CMP=share_btn_tw)
+*	__BuzzFeed News:__ [How BuzzFeed News Used Betting Data To Investigate Match-Fixing In Tennis](http://www.buzzfeed.com/johntemplon/how-we-used-data-to-investigate-match-fixing-in-tennis#.emlg56K1N)
 
 
 ### DB Projects
