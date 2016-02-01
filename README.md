@@ -227,6 +227,8 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__FiveThirtyEight:__ [Which Flight Will Get You There Fastest?](http://projects.fivethirtyeight.com/flights/)
 *	__FiveThirtyEight:__ [Is Uber Making NYC Rush-Hour Traffic Worse?](http://fivethirtyeight.com/features/is-uber-making-nyc-rush-hour-traffic-worse/?ex_cid=538twitter)
 *	__FiveThirtyEight:__ [The Perfect Republican Stump Speech](http://projects.fivethirtyeight.com/stump-speech/)
+*	__FiveThirtyEight:__ [What Went Wrong In Flint](http://fivethirtyeight.com/features/bad-data-and-worse-decisions-poisoned-flint/)
+*	__FiveThirtyEight:__ [Bad Data — And Worse Decisions — Poisoned Flint](http://fivethirtyeight.com/features/what-went-wrong-in-flint-water-crisis-michigan/)
 *  	__ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
 *  	__ZEIT Online:__ [Warum uns das iPhone Milliarden kostet](http://www.zeit.de/wirtschaft/unternehmen/2015-09/iphone-apple-steuern-europa)
 *  	__Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
