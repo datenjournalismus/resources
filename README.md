@@ -234,6 +234,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *  	__Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
 *  	__BuzzFeed:__ [These 6 Charts Show Why Katrina Was The Storm From Hell](http://www.buzzfeed.com/peteraldhous/why-katrina-was-the-storm-from-hell)
 *  	__Berliner Morgenpost:__ [M29 - Berlins Buslinie der großen Unterschiede](http://interaktiv.morgenpost.de/m29/)
+*	__Vocativ:__ [The Broncos Win The Porn Star Super Bowl](http://www.vocativ.com/news/278831/super-bowl-players-win-big-with-porn-stars-on-twitter/)
 *  	__Flowingdata:__ [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 *  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
 *	__The Washington Center for Equitable Growth:__	[An introduction to the geography of student debt](http://equitablegrowth.org/an-introduction-to-the-geography-of-student-debt/)
