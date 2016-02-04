@@ -24,7 +24,7 @@ $ brew update && brew upgrade && brew install imagemagick
 ```
 
 
-#####How to select the top 10 largest values from different rows in R
+#####How to select the top 10 largest values from columns in R
 
 ```R
 Var1 <- 90:115
