@@ -22,3 +22,17 @@ $ bash <(sed -n '5,$p' yourscript.sh)
 ```shell
 $ brew update && brew upgrade && brew install imagemagick
 ```
+
+
+#####How to select the top 10 largest values from different rows in R
+
+```R
+Var1 <- 90:115
+Var2 <- 1:26
+Var3 <- 52:27
+
+
+data <- data.frame(Var1, Var2, Var3)
+
+df.new <- data[sort(unique(c(sapply(data,order,decreasing=T)[1:10,]))),]
+```
