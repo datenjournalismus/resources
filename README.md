@@ -177,6 +177,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Video-Explainer: Bayes-Theorem: Bedingte Wahrscheinlichkeit - Beispiel](https://www.youtube.com/watch?v=e6AWeJo1EYg)
 *	[Explainer: Bayes' Theorem with Lego](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 *	[Bayes-Theorem: Prüfungsaufgaben und Lösungen](http://www.poenitz-net.de/Mathematik/3.Stochastik/3.2.F.Bedingte%20Wahrscheinlichkeit.pdf)
+*	[Guess the correlation](http://guessthecorrelation.com/)
 
 
 ### Data sources
@@ -239,6 +240,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *  	__Faces of Fracking:__ [California's Getting Fracked](http://www.facesoffracking.org/data-visualization/)
 *	__The Washington Center for Equitable Growth:__	[An introduction to the geography of student debt](http://equitablegrowth.org/an-introduction-to-the-geography-of-student-debt/)
 *	__NPR:__ [The CDC Gives U.S. Schools Low Marks In Sex Ed](http://www.npr.org/sections/ed/2015/12/10/457281553/the-cdc-gives-u-s-schools-low-marks-in-sex-ed)
+*	__ProPublica:__ [The NYPD has pushed dozens of innocent people in minority neighborhoods out of their homes](https://www.propublica.org/article/nypd-nuisance-abatement-evictions?utm_campaign=partner&utm_medium=social&utm_source=Newsweek)
 *	__Bloomberg:__ [Star Wars The Force Accounted](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)
 *	__Quartz:__ [Why infectious bacteria are winning](http://qz.com/576057/why-infectious-bacteria-are-winning/)
 *	__The Guardian US:__ [Gun deaths in your district: what have your elected representatives done?](http://www.theguardian.com/us-news/ng-interactive/2015/dec/14/gun-control-laws-congress-shooting-deaths-nra-lobby-campaign-donations#49-03)
