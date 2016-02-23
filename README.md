@@ -230,6 +230,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__FiveThirtyEight:__ [The Perfect Republican Stump Speech](http://projects.fivethirtyeight.com/stump-speech/)
 *	__FiveThirtyEight:__ [What Went Wrong In Flint](http://fivethirtyeight.com/features/bad-data-and-worse-decisions-poisoned-flint/)
 *	__FiveThirtyEight:__ [Bad Data — And Worse Decisions — Poisoned Flint](http://fivethirtyeight.com/features/what-went-wrong-in-flint-water-crisis-michigan/)
+*	__FiveThirtyEight:__ [Does Leonardo DiCaprio Deserve An Oscar? An Interrogation.](http://fivethirtyeight.com/features/does-leonardo-dicaprio-deserve-an-oscar-an-interrogation/)
 *  	__ZEIT Online:__ [Geld zieht Ärzte an](http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis)
 *  	__ZEIT Online:__ [Warum uns das iPhone Milliarden kostet](http://www.zeit.de/wirtschaft/unternehmen/2015-09/iphone-apple-steuern-europa)
 *  	__Financial Times:__ [The UK economy at a glance](http://ig.ft.com/sites/uk/economic-dashboard/)
