@@ -3,8 +3,8 @@
 
 [What is data journalism?](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/)
 
-> _Data journalism exists to answer questions about the world that traditional journalistic techniques_
-> _like interviewing and background research cannot resolve._
+> _Data journalism exists to answer questions about the world that traditional_
+> _journalistic techniques like interviewing and background research cannot resolve._
 
 
 
