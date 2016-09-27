@@ -197,6 +197,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Berkeley Earth](http://berkeleyearth.org)
 *	[Statistische Ämter des Bundes und der Länder](http://www.statistik-portal.de/Statistik-portal/LinksUebersicht.asp#Deutschland)
 *	[Umwelt Bundesamt](http://www.umweltbundesamt.de/daten)
+*	[Naturkatastrophen](http://www.ngdc.noaa.gov/hazard/hazards.shtml)
 
 
 ### GitHub accounts
