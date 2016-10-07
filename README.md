@@ -168,7 +168,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 ### R Packages
 
 *	[ggplot2: An Implementation of the Grammar of Graphics](https://cran.r-project.org/web/packages/ggplot2/index.html)
-*	[ggplot2 Aa a Creativity Engine by Burn-Murdoch (Financial Times)](http://johnburnmurdoch.github.io/slides/r-ggplot/#/)
+*	[ggplot2 As a Creativity Engine by Burn-Murdoch (Financial Times)](http://johnburnmurdoch.github.io/slides/r-ggplot/#/)
 *	[tidyr: It's designed specifically for data tidying and works well with 'dplyr' data pipelines.](https://cran.r-project.org/web/packages/tidyr/index.html)
 *	[dplyr: A Grammar of Data Manipulation.](https://cran.r-project.org/web/packages/dplyr/index.html)
 *	[reshape2: Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast).](https://cran.r-project.org/web/packages/reshape2/index.html)
