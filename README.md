@@ -163,6 +163,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[Download and plot Google Trends data with R](http://blog.revolutionanalytics.com/2015/12/download-and-plot-google-trends-data-with-r.html)
 *	[An Intro to Probability with R](http://districtdatalabs.silvrback.com/intro-to-probability-with-r)
 *	[How to write the first for loop in R](http://www.r-bloggers.com/how-to-write-the-first-for-loop-in-r/)
+*	[A Tutorial on Loops in R - Usage and Alternatives](http://scl.io/4Rv7ZXa4#gs.OPvZvdM)
 
 
 ### R Packages
