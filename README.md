@@ -148,6 +148,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 ### R Tutorials
 
 *	[A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+*	[ggplot2 As a Creativity Engine by John Burn-Murdoch (Financial Times)](http://johnburnmurdoch.github.io/slides/r-ggplot/#/)
 *	[Cookbook for R](http://www.cookbook-r.com/)
 *	[Use emoji in your ggplot2 plots](https://github.com/dill/emoGG)
 *	[Handling and Processing Strings in R](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
@@ -169,7 +170,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 ### R Packages
 
 *	[ggplot2: An Implementation of the Grammar of Graphics](https://cran.r-project.org/web/packages/ggplot2/index.html)
-*	[ggplot2 As a Creativity Engine by John Burn-Murdoch (Financial Times)](http://johnburnmurdoch.github.io/slides/r-ggplot/#/)
+*	[gganimate: Create easy animations with ggplot2](https://github.com/dgrtwo/gganimate)
 *	[tidyr: It's designed specifically for data tidying and works well with 'dplyr' data pipelines.](https://cran.r-project.org/web/packages/tidyr/index.html)
 *	[dplyr: A Grammar of Data Manipulation.](https://cran.r-project.org/web/packages/dplyr/index.html)
 *	[reshape2: Flexibly restructure and aggregate data using just two functions: melt and dcast (or acast).](https://cran.r-project.org/web/packages/reshape2/index.html)
@@ -179,6 +180,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	[twitteR: twitteR is an R package which provides access to the Twitter API](https://cran.r-project.org/web/packages/twitteR/index.html)
 *	[emoGG: Use emoji in your ggplot2 plots.](https://github.com/dill/emoGG)
 *	[emojifont: Using emoji font in R](https://github.com/GuangchuangYu/emojifont)
+
 
 
 ### Statistics
