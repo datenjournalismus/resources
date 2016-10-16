@@ -263,6 +263,11 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__BuzzFeed News:__ [How BuzzFeed News Used Betting Data To Investigate Match-Fixing In Tennis](http://www.buzzfeed.com/johntemplon/how-we-used-data-to-investigate-match-fixing-in-tennis#.emlg56K1N)
 
 
+### Bot Projects
+
+*	__GVA Dictator Alert:___ [This Twitter bot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport](https://github.com/lefranz/geneva-dictators)
+
+
 ### DB Projects
 
 
