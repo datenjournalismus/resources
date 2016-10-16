@@ -265,7 +265,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 
 ### Bot Projects
 
-*	__GVA Dictator Alert:___ [This Twitter bot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport](https://github.com/lefranz/geneva-dictators)
+*	__GVA Dictator Alert:__ [This Twitter bot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport](https://github.com/lefranz/geneva-dictators)
 
 
 ### DB Projects
