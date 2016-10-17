@@ -44,6 +44,7 @@
 *	[Reducing barriers between programmers and non-programmers in the newsroom](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/)
 *	[The most misleading charts of 2015, fixed](http://qz.com/580859/the-most-misleading-charts-of-2015-fixed/)
 *	[How To Make Sense Of Conflicting, Confusing And Misleading Crime Statistics](http://fivethirtyeight.com/features/how-to-make-sense-of-conflicting-confusing-and-misleading-crime-statistics/)
+*	[How to avoid 10 common mistakes in data reporting](https://www.americanpressinstitute.org/publications/data-reporting-common-mistakes/)
 
 
 
@@ -136,6 +137,7 @@
 *	[Using PostGIS, SQL, and CartoDB to identify schools at risk from Oklahoma's earthquakes](http://2015.padjo.org/tutorials/mapping/077-ok-schools-quakes/)
 *	[2015 - Public Affairs Data Journalism at Stanford University](http://2015.padjo.org/tutorials/)
 *	[2014 - Public Affairs Data Journalism at Stanford University](http://fall2014.padjo.org/tutorials/)
+*	[An Introduction to Scientific Python – Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 
 
 As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-make-statisticians-mad/) said:
