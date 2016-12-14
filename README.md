@@ -231,6 +231,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 ### Food for thought
 
 *	__The Washington Post:__ [People have no idea what inequality actually looks like](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/18/people-have-no-idea-what-inequality-actually-looks-like/)
+*	__The Washington Post:__ [Most of Trump’s charts skew the data. And not always in his favor](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charts/)
 *	__New York Times:__ [One Report, Diverging Perspectives](http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0)
 *	__New York Times:__ [Pumpkin Pie in Miami: Thanksgiving Flight Patterns](http://www.nytimes.com/interactive/2015/11/24/upshot/thanksgiving-flight-patterns.html)
 *	__New York Times:__  [How Family Income Affects Children’s College Chances](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?abt=0002&abg=1&_r=0)
@@ -261,6 +262,7 @@ As [Nathan Yau](https://flowingdata.com/2010/04/22/r-is-an-epic-fail-or-how-to-m
 *	__Bloomberg:__ [Star Wars The Force Accounted](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)
 *	__Quartz:__ [Why infectious bacteria are winning](http://qz.com/576057/why-infectious-bacteria-are-winning/)
 *	__The Guardian US:__ [Gun deaths in your district: what have your elected representatives done?](http://www.theguardian.com/us-news/ng-interactive/2015/dec/14/gun-control-laws-congress-shooting-deaths-nra-lobby-campaign-donations#49-03)
+*	__The Guardian:__ [Toilets: 2.5bn people go without – a 99-second video animation](https://www.theguardian.com/global-development/video/2014/aug/28/toilets-video-animation)
 *	__The Guardian:__ [US-led airstrikes against Islamic State in Syria and Iraq](http://www.theguardian.com/world/ng-interactive/2016/jan/08/us-led-airstrikes-against-islamic-state-syria-iraq-interactive-isis?CMP=share_btn_tw)
 *	__BuzzFeed News:__ [How BuzzFeed News Used Betting Data To Investigate Match-Fixing In Tennis](http://www.buzzfeed.com/johntemplon/how-we-used-data-to-investigate-match-fixing-in-tennis#.emlg56K1N)
 
